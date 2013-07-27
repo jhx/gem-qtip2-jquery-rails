@@ -7,8 +7,7 @@ qTip2 jQuery plugin packaged for the Rails 3.1+ asset pipeline.
 Add these lines to your application's Gemfile:
 
     # qtip2 jquery plugin packaged for the rails asset pipeline
-    gem 'qtip2-jquery-rails',
-      :git => 'https://github.com/jhx/gem-qtip2-jquery-rails'
+    gem 'qtip2-jquery-rails', '~> 2.0.0'
 
 And then execute:
 
