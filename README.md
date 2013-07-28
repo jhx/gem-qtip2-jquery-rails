@@ -1,5 +1,6 @@
-# qtip2-jquery-rails
-[![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
+# qtip2-jquery-rails [![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
+
+> Created by Doc Walker
 
 qTip2 jQuery plugin packaged for the Rails 3.1+ asset pipeline.
 
