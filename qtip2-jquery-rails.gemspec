@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Qtip2Jquery::Rails::VERSION
   spec.authors       = ["Doc Walker"]
   spec.email         = ["doc.walker@jameshardie.com"]
-  spec.description   = %q{qTip2 jQuery plugin}
+  spec.description   = %q{Provides the `qTip2` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
   spec.summary       = %q{Provides the `qTip2` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
   spec.homepage      = "https://github.com/jhx/gem-qtip2-jquery-rails"
   spec.license       = "MIT"
