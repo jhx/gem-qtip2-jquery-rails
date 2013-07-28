@@ -2,7 +2,7 @@
 
 > Created by Doc Walker
 
-qTip2 jQuery plugin packaged for the Rails 3.1+ asset pipeline.
+Provides the `qTip2` jQuery plugin packaged for the Rails 3.1+ asset pipeline.
 
 ## Installation
 
@@ -21,8 +21,8 @@ Or install it yourself as:
 
 Gem version notes:
 
-  - x.y.z version will track the qTip2 plugin version;
-  - It may contain a suffix to differentiate versions of the gem based on the same qTip2 plugin version;
+  - x.y.z version will track the `qTip2` plugin version;
+  - It may contain a suffix to differentiate versions of the gem based on the same `qTip2` plugin version;
 
 ## Usage
 
