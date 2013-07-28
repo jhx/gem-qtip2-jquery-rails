@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["doc.walker@jameshardie.com"]
   spec.description   = %q{qTip2 jQuery plugin}
   spec.summary       = %q{qTip2 packaged for the Rails 3.1+ asset pipeline.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/jhx/gem-qtip2-jquery-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   
   spec.add_dependency "railties", "~> 3.1"
+  spec.requirements << "jQuery"
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
