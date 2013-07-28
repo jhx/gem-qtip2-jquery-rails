@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'qtip2/jquery/rails/version'
+require 'qtip2-jquery-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "qtip2-jquery-rails"
-  spec.version       = Qtip2::Jquery::Rails::VERSION
+  spec.version       = Qtip2Jquery::Rails::VERSION
   spec.authors       = ["Doc Walker"]
   spec.email         = ["doc.walker@jameshardie.com"]
   spec.description   = %q{qTip2 jQuery plugin}
-  spec.summary       = %q{qTip2 packaged for the Rails 3.1+ asset pipeline.}
+  spec.summary       = %q{Provides the `qTip2` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
   spec.homepage      = "https://github.com/jhx/gem-qtip2-jquery-rails"
   spec.license       = "MIT"
 
