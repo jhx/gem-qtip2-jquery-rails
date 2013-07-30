@@ -42,8 +42,10 @@ Add these lines to `app/assets/javascripts/application.js`
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
+/*
 provides speech bubble tips from gem 'qtip2-jquery-rails':
 = require qtip2-jquery-rails
+*/
 ```
 
 ## Contributing
