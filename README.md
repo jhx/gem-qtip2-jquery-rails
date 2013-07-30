@@ -8,16 +8,22 @@ Provides the `qTip2` jQuery plugin packaged for the Rails 3.1+ asset pipeline.
 
 Add these lines to your application's Gemfile:
 
-    # qtip2 jquery plugin packaged for the rails asset pipeline
-    gem 'qtip2-jquery-rails', '~> 2.0.0'
+```rb
+# qtip2 jquery plugin packaged for the rails asset pipeline
+gem 'qtip2-jquery-rails', '~> 2.0.0'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install qtip2-jquery-rails
+```sh
+$ gem install qtip2-jquery-rails
+```
 
 Gem version notes:
 
@@ -28,13 +34,17 @@ Gem version notes:
 
 Add these lines to `app/assets/javascripts/application.js`
 
-    // provides speech bubble tips from gem 'qtip2-jquery-rails':
-    //= require jquery.qtip
+```js
+// provides speech bubble tips from gem 'qtip2-jquery-rails':
+//= require jquery.qtip
+```
 
 Add these lines to `app/assets/stylesheets/application.css`
 
-    provides speech bubble tips from gem 'qtip2-jquery-rails':
-    = require jquery.qtip
+```css
+provides speech bubble tips from gem 'qtip2-jquery-rails':
+= require jquery.qtip
+```
 
 ## Contributing
 
