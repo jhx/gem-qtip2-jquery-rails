@@ -10,7 +10,7 @@ Add these lines to your application's Gemfile:
 
 ```rb
 # qtip2 jquery plugin packaged for the rails asset pipeline
-gem 'qtip2-jquery-rails', '~> 2.0.0'
+gem 'qtip2-jquery-rails', '~> 2.1.1'
 ```
 
 And then execute:
@@ -36,14 +36,14 @@ Add these lines to `app/assets/javascripts/application.js`
 
 ```js
 // provides speech bubble tips from gem 'qtip2-jquery-rails':
-//= require jquery.qtip
+//= require qtip2-jquery-rails
 ```
 
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
 provides speech bubble tips from gem 'qtip2-jquery-rails':
-= require jquery.qtip
+= require qtip2-jquery-rails
 ```
 
 ## Contributing
