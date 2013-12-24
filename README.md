@@ -1,4 +1,6 @@
-# qtip2-jquery-rails [![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
+# qtip2-jquery-rails
+[![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-qtip2-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-qtip2-jquery-rails)
 
 > Gemified by Doc Walker
 
