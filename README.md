@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # qtip2 jquery plugin packaged for the rails asset pipeline
-gem 'qtip2-jquery-rails', '~> 2.1.1'
+gem 'qtip2-jquery-rails', '~> 2.1.106'
 ```
 
 And then execute:
