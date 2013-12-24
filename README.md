@@ -1,6 +1,9 @@
 # qtip2-jquery-rails
 [![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
 [![Build Status](https://travis-ci.org/jhx/gem-qtip2-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-qtip2-jquery-rails)
+[![Dependency Status](https://gemnasium.com/jhx/gem-qtip2-jquery-rails.png)](https://gemnasium.com/jhx/gem-qtip2-jquery-rails)
+[![Code Climate](https://codeclimate.com/github/jhx/gem-qtip2-jquery-rails.png)](https://codeclimate.com/github/jhx/gem-qtip2-jquery-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-qtip2-jquery-rails/badge.png)](https://coveralls.io/r/jhx/gem-qtip2-jquery-rails)
 
 > Gemified by Doc Walker
 
