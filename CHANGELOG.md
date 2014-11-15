@@ -1,5 +1,16 @@
-CHANGELOG
-=========
+2.1.108 / 2014-11-15
+--------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/4a5683a)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/41ab13b)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/6c29833)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/4a57591)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/49628b3)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/fbb32a5)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/8c87a30)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/51f91f3)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/3f2012f)
+
 
 2.1.107 / 2014-02-18
 --------------------
