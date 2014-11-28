@@ -7,11 +7,11 @@ feature 'Asset pipeline' do
     # save_and_open_page  # for debugging (opens page in browser)
 
     expect(page).to have_text(<<-EOF
-    * qTip2 - Pretty powerful tooltips - v2.1.1
+    * qTip2 - Pretty powerful tooltips - v2.2.1
     * http://qtip2.com
     *
-    * Copyright (c) 2013 Craig Michael Thompson
-    * Released under the MIT, GPL licenses
+    * Copyright (c) 2014
+    * Released under the MIT licenses
     * http://jquery.org/license
     EOF
     )
