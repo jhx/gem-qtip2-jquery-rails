@@ -10,8 +10,8 @@ module Qtip2Jquery
     #   "2.1.101" is qtip2 v2.1.1 + gem release 1
     #   "2.1.110" is qtip2 v2.1.1 + gem release 10
     MAJOR = 2
-    MINOR = 1
-    PATCH = 108
+    MINOR = 2
+    PATCH = 100
     BUILD = nil
     VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end

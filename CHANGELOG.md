@@ -1,3 +1,9 @@
+2.2.100 / 2014-11-30
+--------------------
+
+- `IMPROVE` - Update qtip2 to v2.2.1 | [view](https://github.com/jhx/gem-qtip2-jquery-rails/commit/42184fc)
+
+
 2.1.108 / 2014-11-15
 --------------------
 
