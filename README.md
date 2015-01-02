@@ -1,9 +1,15 @@
 # qtip2-jquery-rails
-[![Gem Version](https://badge.fury.io/rb/qtip2-jquery-rails.png)](http://badge.fury.io/rb/qtip2-jquery-rails)
-[![Build Status](https://travis-ci.org/jhx/gem-qtip2-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-qtip2-jquery-rails)
-[![Dependency Status](https://gemnasium.com/jhx/gem-qtip2-jquery-rails.png)](https://gemnasium.com/jhx/gem-qtip2-jquery-rails)
-[![Code Climate](https://codeclimate.com/github/jhx/gem-qtip2-jquery-rails.png)](https://codeclimate.com/github/jhx/gem-qtip2-jquery-rails)
-[![Coverage Status](https://coveralls.io/repos/jhx/gem-qtip2-jquery-rails/badge.png)](https://coveralls.io/r/jhx/gem-qtip2-jquery-rails)
+[![Gem](http://img.shields.io/gem/v/qtip2-jquery-rails.svg?style=flat)][gem]
+[![Travis](https://img.shields.io/travis/jhx/gem-qtip2-jquery-rails.svg?style=flat)][travis]
+[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-qtip2-jquery-rails.svg?style=flat)][gemnasium]
+[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-qtip2-jquery-rails.svg?style=flat)][code climate]
+[![Coveralls](http://img.shields.io/coveralls/jhx/gem-qtip2-jquery-rails.svg?style=flat)][coveralls]
+
+[gem]:          https://rubygems.org/gems/qtip2-jquery-rails
+[travis]:       https://travis-ci.org/jhx/gem-qtip2-jquery-rails
+[gemnasium]:    https://gemnasium.com/jhx/gem-qtip2-jquery-rails
+[code climate]: https://codeclimate.com/github/jhx/gem-qtip2-jquery-rails
+[coveralls]:    https://coveralls.io/r/jhx/gem-qtip2-jquery-rails
 
 > Gemified by Doc Walker
 
